@@ -1,5 +1,7 @@
 # bouncingBall
 
+Use HTML5, CSS3, Pure JavaScript
+
 ## Demo
 [Demo](https://e920528.github.io/bouncingBall/)
 
